@@ -32,15 +32,14 @@ From clear skies to rainy days, Weather App helps you prepare for anything. Its 
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/XkdHPkj7/1.png)
+![App Screenshot](https://i.postimg.cc/NMG4bzjM/1.png)
 
 ![App Screenshot](https://i.postimg.cc/ZYDsR4w4/3.png)
 
-![App Screenshot](https://i.ibb.co/bM6bW72Z/2.png)
+![App Screenshot](https://i.postimg.cc/tJKF0SpB/2.png)
 
 ![App Screenshot](https://i.postimg.cc/W1VyRS95/4.png)
 ## Authors
 
 - [@Arbab Siddique](https://github.com/arbabalv)
-
 
