@@ -1,16 +1,35 @@
-# my_weather
+Weather App in Flutter With API
+Weather App – Your Daily Sky Companion
 
-A new Flutter project.
+Stay ahead of the weather with Weather App, your beautifully designed and reliable weather companion.App ScreenshotWhether you’re planning your day, scheduling travel, or just curious about the sky — Weather App gives you accurate, real-time updates in a simple, elegant interface.
 
-## Getting Started
+Key Features
+Live Weather Updates: Get instant temperature, humidity, and wind speed data for any city.
 
-This project is a starting point for a Flutter application.
+Beautiful Interface: Modern and colorful design with animated weather icons that make checking the forecast enjoyable.
 
-A few resources to get you started if this is your first Flutter project:
+Detailed Forecasts: View sunrise, sunset, and current conditions at a glance.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Global City Search: Quickly search weather data for any location worldwide.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Smooth User Experience: Fast, responsive, and visually appealing design optimized for all devices.
+
+Why You’ll Love It
+From clear skies to rainy days, Weather App helps you prepare for anything. Its realistic graphics and easy navigation make checking the weather a delightful part of your routine.
+
+Tech Stack
+Client: Flutter (Dart language)
+
+Server: OpenWeatherMap API / WeatherAPI
+
+Screenshots
+App Screenshot
+
+App Screenshot
+
+App Screenshot
+
+App Screenshot
+
+Authors
+@Arbab Siddique
