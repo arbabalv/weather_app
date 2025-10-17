@@ -2,7 +2,8 @@
 # Weather App in Flutter With API
   Weather App – Your Daily Sky Companion
 
-Stay ahead of the weather with Weather App, your beautifully designed and reliable weather companion. ![App Screenshot](https://i.postimg.cc/Wz3kJRb3/image.png)
+Stay ahead of the weather with Weather App, your beautifully designed and reliable weather companion.
+![App Screenshot](https://i.postimg.cc/Wz3kJRb3/image.png)
 Whether you’re planning your day, scheduling travel, or just curious about the sky — Weather App gives you accurate, real-time updates in a simple, elegant interface.
 # Key Features
 
@@ -16,7 +17,7 @@ Global City Search: Quickly search weather data for any location worldwide.
 
 Smooth User Experience: Fast, responsive, and visually appealing design optimized for all devices.
 
-<a href="">![App Screenshot](https://i.postimg.cc/FRBL39C7/pngtree-navy-blue-download-button-with-arrow-png-image-2459555.jpg)</a>
+<a href="">![App Screenshot](https://i.postimg.cc/JhGscff6/downloadbutton.png)</a>
 
 # Why You’ll Love It
 
