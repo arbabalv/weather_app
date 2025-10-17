@@ -16,7 +16,7 @@ Global City Search: Quickly search weather data for any location worldwide.
 
 Smooth User Experience: Fast, responsive, and visually appealing design optimized for all devices.
 
-<a href="">![App Screenshot](https://i.postimg.cc/JhGscff6/downloadbutton.png)</a>
+<a href="https://github.com/arbabalv/weather_app/releases/download/2024.3.1/weather.App.apk">![App Screenshot](https://i.postimg.cc/JhGscff6/downloadbutton.png)</a>
 
 # Why You’ll Love It
 
