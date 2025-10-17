@@ -3,7 +3,6 @@
   Weather App – Your Daily Sky Companion
 
 Stay ahead of the weather with Weather App, your beautifully designed and reliable weather companion.
-![App Screenshot](https://i.postimg.cc/Wz3kJRb3/image.png)
 Whether you’re planning your day, scheduling travel, or just curious about the sky — Weather App gives you accurate, real-time updates in a simple, elegant interface.
 # Key Features
 
